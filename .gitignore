@@ -1,1 +1,13 @@
-&~(ignorowanie plikow zakonczonych~)
+*~
+*.aux
+*.bol
+*.log
+*.out
+*.toc
+*.brf
+*.synctex
+*.bbl
+*.blg
+*.dvi
+*.tcp
+*.tps
